@@ -145,3 +145,6 @@ Screenshots: screenshots/v5_home_mobile.png, v5_travel_mobile.png, v5_destinatio
 
 ## v7.3.2 (2026-10-26)
 - Donate XRP QR (top-left, below top bar): QR = rJvQpAq1L4weG8b4B7C7ZqdmZeCcqhxbef (static SVG, made offline); tap opens xrpl: URI, copies address, EN/ES toast. sw fs-v732-1
+
+## v7.4 (2026-10-26)
+- Moved to https://faunamysphere.github.io/. This site now forwards and carries the save. sw fs-v74-moved-1
